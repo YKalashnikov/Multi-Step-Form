@@ -1,4 +1,4 @@
-<img src='https://github.com/YKalashnikov/Multi-Step-Form/blob/master/Form.gif/>
+<img src='https://github.com/YKalashnikov/Multi-Step-Form/blob/master/Form.gif'/>
           
 # Multi Step Form With React & Material UI
 
